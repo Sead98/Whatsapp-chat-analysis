@@ -27,4 +27,4 @@ Main points covered in the code:
 
 3.EDA
 
-4.Sentimel analysis
+4.Sentiment analysis
